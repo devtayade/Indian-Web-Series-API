@@ -686,5 +686,21 @@
     "episodeCount": 4,
     "seasons": 1,
     "releaseDate": "20 August 2020"
+ },
+  {
+    "id": 44,
+    "name": "Liar Game",
+    "rating": 7.6,
+    "description": "Trusting, gullible Nao suddenly finds herself participating in the mysterious Liar Game, a game where the players are issued large sums of money which they then have to cheat each other out of.",
+    "category": ["Drama","Thriller"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Erika Toda","Shôta Matsuda","Michiko Kichise","Kazuma Suzuki"],
+      "director": ["Kim Hong-sun"]
+    },
+    "poster": "https://www.imdb.com/title/tt0978076/mediaviewer/rm455599360/",
+    "episodeCount": 10,
+    "seasons": 3,
+    "releaseDate": "14 April 2007"
  }
 ]
